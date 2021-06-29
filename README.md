@@ -20,7 +20,10 @@ You will instead need the following packages to run the app:
 
 ## Usage
 
-Follow the Deployed Heroku Link here:
+Follow the Deployed <a href="https://agile-spire-74922.herokuapp.com/" target="_blank">Heroku Link</a>
+
+
+![FitnessTracker](/assets/images/fitnesstracker.png "Fitness Tracker Homepage")
 
 ## Contribution
 
