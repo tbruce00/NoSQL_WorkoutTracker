@@ -36,7 +36,7 @@ const workoutSchema = new Schema({
         }
     ],
     workoutDuration: {
-        type: number,
+        type: Number,
     },
 });
 
