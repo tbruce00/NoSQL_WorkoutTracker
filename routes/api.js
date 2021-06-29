@@ -17,3 +17,12 @@ router.get("/api/workouts", (req,res) =>{
         res.json(err);
     }); 
 });
+
+router.post("/api/workouts", (req,res) => {
+    Workout.create({})
+    .then(workoutsDb => {
+        res.json(workoutDb);
+    }).catch(err => {
+        res.status(400).json(err);
+    });
+});
