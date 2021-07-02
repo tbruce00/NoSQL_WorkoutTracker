@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 mongoose.connect(
-    process.env.MONGODB_URI || 'mongodb://localhost/agile-spire',
+    process.env.MONGODB_URI || 'mongodb://localhost/agile-spire-74922',
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
