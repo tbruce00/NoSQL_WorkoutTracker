@@ -25,6 +25,10 @@ Follow the Deployed <a href="https://agile-spire-74922.herokuapp.com/" target="_
 
 ![FitnessTracker](/assets/images/fitnesstracker.png "Fitness Tracker Homepage")
 
+![NewWorkout](/assets/images/addworkout.png "Add New Workout")
+
+![FitnessDashboard](/assets/images/dashboard.png "Fitness Tracker Dashboard")
+
 ## Contribution
 
 Trevor  Bruce
